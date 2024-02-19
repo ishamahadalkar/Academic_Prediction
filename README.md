@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ishamahadalkar/Nashville_Housing">
-    <img src="logo.jpeg" alt="Logo" >
+    <img src="logo.jpeg" width="100%" alt="Logo" >
   </a>
   
 <!-- Section Name tag -->
